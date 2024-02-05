@@ -1,1 +1,1 @@
-# Bank
+Diving into object-oriented programming in Java to develop a functioning banking system among five other groups, my group being responsible for the development of the checking account. Implemented concepts of introductory Java, including methods, classes, and constructors. Agile development methodologies were used to divide the responsibilities and and host bi-weekly stand-ups to update the whole team on our progress.
